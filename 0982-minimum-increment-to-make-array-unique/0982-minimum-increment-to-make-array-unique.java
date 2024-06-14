@@ -6,9 +6,9 @@ class Solution {
         
         for (int i = 1; i < nums.length; i++) {
             if (nums[i] <= nums[i - 1]) {
-                int newValue = nums[i - 1] + 1;
-                mvs += newValue - nums[i];
-                nums[i] = newValue;
+                int new_val = nums[i - 1] + 1;
+                mvs += new_val - nums[i];
+                nums[i] = new_val;
             }
         }
         
