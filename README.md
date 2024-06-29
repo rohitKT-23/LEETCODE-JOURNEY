@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Math
+|  |
+| ------- |
+| [1276-closest-divisors](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1276-closest-divisors) |
 <!---LeetCode Topics End-->
