@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
 |  |
@@ -27,14 +29,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0384-shuffle-an-array](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0384-shuffle-an-array) |
 | [1284-four-divisors](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1284-four-divisors) |
 ## Randomized
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0384-shuffle-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
