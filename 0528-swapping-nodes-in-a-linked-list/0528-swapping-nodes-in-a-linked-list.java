@@ -11,7 +11,8 @@
 class Solution {
     public ListNode swapNodes(ListNode head, int k) {
         ListNode ND = head;
-            ListNode fst = null, scnd = null;
+            ListNode fst = null;
+            ListNode scnd = null;
             int len = 0;
             while (ND != null) {
                 len++;
