@@ -62,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0143-reorder-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0780-max-chunks-to-make-sorted) |
 ## Greedy
@@ -88,9 +90,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0143-reorder-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0143-reorder-list) |
 | [0795-k-th-symbol-in-grammar](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0795-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
