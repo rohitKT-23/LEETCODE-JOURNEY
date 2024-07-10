@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0517-super-washing-machines](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0517-super-washing-machines) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0649-dota2-senate](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0649-dota2-senate) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0780-max-chunks-to-make-sorted) |
 ## Sorting
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0649-dota2-senate) |
 | [0763-special-binary-string](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0763-special-binary-string) |
 ## Number Theory
 |  |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
+## Queue
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
