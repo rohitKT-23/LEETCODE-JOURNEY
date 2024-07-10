@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1375-find-palindrome-with-fixed-length](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1375-find-palindrome-with-fixed-length) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1585-the-kth-factor-of-n](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1585-the-kth-factor-of-n) |
+| [2050-count-good-numbers](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2050-count-good-numbers) |
 ## Union Find
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0143-reorder-list) |
 | [0763-special-binary-string](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0763-special-binary-string) |
 | [0795-k-th-symbol-in-grammar](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0795-k-th-symbol-in-grammar) |
+| [2050-count-good-numbers](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2050-count-good-numbers) |
 ## String
 |  |
 | ------- |
