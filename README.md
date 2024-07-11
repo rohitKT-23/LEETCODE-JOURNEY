@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1585-the-kth-factor-of-n](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1585-the-kth-factor-of-n) |
 | [2050-count-good-numbers](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2050-count-good-numbers) |
+| [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 ## Union Find
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0649-dota2-senate](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0649-dota2-senate) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0780-max-chunks-to-make-sorted) |
+| [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-special-binary-string](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0763-special-binary-string) |
 | [0795-k-th-symbol-in-grammar](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0795-k-th-symbol-in-grammar) |
 | [2050-count-good-numbers](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2050-count-good-numbers) |
+| [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 ## String
 |  |
 | ------- |
