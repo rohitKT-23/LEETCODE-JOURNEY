@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1585-the-kth-factor-of-n) |
 | [2050-count-good-numbers](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2050-count-good-numbers) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
+| [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Union Find
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0795-k-th-symbol-in-grammar) |
 | [2050-count-good-numbers](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2050-count-good-numbers) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
+| [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## String
 |  |
 | ------- |
