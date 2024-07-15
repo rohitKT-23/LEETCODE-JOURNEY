@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0384-shuffle-an-array](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0384-shuffle-an-array) |
 | [0477-total-hamming-distance](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0477-total-hamming-distance) |
+| [0539-minimum-time-difference](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0539-minimum-time-difference) |
 | [0795-k-th-symbol-in-grammar](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0795-k-th-symbol-in-grammar) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1276-closest-divisors](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1276-closest-divisors) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0384-shuffle-an-array) |
 | [0477-total-hamming-distance](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0477-total-hamming-distance) |
 | [0517-super-washing-machines](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0517-super-washing-machines) |
+| [0539-minimum-time-difference](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0780-max-chunks-to-make-sorted) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1230-maximum-of-absolute-value-expression) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0726-number-of-atoms](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0780-max-chunks-to-make-sorted) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0539-minimum-time-difference) |
 | [0649-dota2-senate](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0649-dota2-senate) |
 | [0726-number-of-atoms](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0726-number-of-atoms) |
 | [0763-special-binary-string](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0763-special-binary-string) |
