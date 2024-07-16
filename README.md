@@ -151,4 +151,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
