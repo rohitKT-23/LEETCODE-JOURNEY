@@ -147,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0726-number-of-atoms) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
