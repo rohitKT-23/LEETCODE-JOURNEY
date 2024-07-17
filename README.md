@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2050-count-good-numbers) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Union Find
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1284-four-divisors](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1284-four-divisors) |
 | [1375-find-palindrome-with-fixed-length](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1375-find-palindrome-with-fixed-length) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 ## Randomized
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1543-simplified-fractions](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1585-the-kth-factor-of-n) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
+| [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 ## Binary Search
 |  |
 | ------- |
