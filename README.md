@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0477-total-hamming-distance) |
 | [0539-minimum-time-difference](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0539-minimum-time-difference) |
 | [0795-k-th-symbol-in-grammar](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0795-k-th-symbol-in-grammar) |
+| [0963-three-equal-parts](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0963-three-equal-parts) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1276-closest-divisors](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1276-closest-divisors) |
 | [1284-four-divisors](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1284-four-divisors) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0780-max-chunks-to-make-sorted) |
+| [0963-three-equal-parts](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0963-three-equal-parts) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1284-four-divisors](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1284-four-divisors) |
 | [1375-find-palindrome-with-fixed-length](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1375-find-palindrome-with-fixed-length) |
