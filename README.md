@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0780-max-chunks-to-make-sorted) |
+| [0852-friends-of-appropriate-ages](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0852-friends-of-appropriate-ages) |
 | [0963-three-equal-parts](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0963-three-equal-parts) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1284-four-divisors](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1284-four-divisors) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0143-reorder-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0852-friends-of-appropriate-ages](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0852-friends-of-appropriate-ages) |
 ## Stack
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0726-number-of-atoms](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0780-max-chunks-to-make-sorted) |
+| [0852-friends-of-appropriate-ages](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0852-friends-of-appropriate-ages) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 ## Monotonic Stack
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0852-friends-of-appropriate-ages](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0852-friends-of-appropriate-ages) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Queue
 |  |
