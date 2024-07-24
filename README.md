@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1375-find-palindrome-with-fixed-length](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1375-find-palindrome-with-fixed-length) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
+| [1446-angle-between-hands-of-a-clock](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1543-simplified-fractions](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1585-the-kth-factor-of-n) |
 | [2050-count-good-numbers](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2050-count-good-numbers) |
