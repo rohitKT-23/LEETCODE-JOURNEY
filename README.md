@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0289-game-of-life) |
+| [0318-maximum-product-of-word-lengths](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0318-maximum-product-of-word-lengths) |
 | [0384-shuffle-an-array](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0384-shuffle-an-array) |
 | [0477-total-hamming-distance](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0477-total-hamming-distance) |
 | [0517-super-washing-machines](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0517-super-washing-machines) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0318-maximum-product-of-word-lengths](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0318-maximum-product-of-word-lengths) |
 | [0477-total-hamming-distance](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0477-total-hamming-distance) |
 | [0795-k-th-symbol-in-grammar](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0795-k-th-symbol-in-grammar) |
 ## Two Pointers
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0318-maximum-product-of-word-lengths](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0318-maximum-product-of-word-lengths) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0539-minimum-time-difference) |
 | [0649-dota2-senate](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0649-dota2-senate) |
