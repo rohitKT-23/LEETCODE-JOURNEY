@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Union Find
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Randomized
 |  |
 | ------- |
@@ -207,4 +209,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0335-self-crossing](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0335-self-crossing) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
