@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0200-number-of-islands) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0988-flip-equivalent-binary-trees) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0988-flip-equivalent-binary-trees) |
