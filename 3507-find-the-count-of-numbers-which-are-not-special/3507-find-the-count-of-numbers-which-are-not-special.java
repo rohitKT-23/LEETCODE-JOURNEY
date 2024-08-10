@@ -1,29 +1,40 @@
 class Solution {
     public int nonSpecialCount(int l, int r) {
-        int not_spcl_cnt = 0;
+         int lmt = (int) Math.sqrt(r);
+        List<Integer> primes = sieve(lmt);
 
-        for (int num = l; num <= r; num++) {
+        int spcl_cnrt = 0;
 
-            if (!isSpecial(num)) {
-                not_spcl_cnt++;
+        for (int prime : primes) {
+            int square = prime * prime;
+            if (square >= l && square <= r) {
+                spcl_cnrt++;
             }
         }
 
-        return not_spcl_cnt;
+        int t_cnt = r - l + 1;
+        return t_cnt - spcl_cnrt;
     }
-    public static boolean isSpecial(int n) {
-        int spcl_cnt = 0;
+    public static List<Integer> sieve(int lmt) {
+        boolean[] valid_prime = new boolean[lmt + 1];
+        Arrays.fill(valid_prime, true);
+        valid_prime[0] = false;
+        valid_prime[1] = false;
 
-        for (int num = 1; num <= n / 2; num++) {
-
-            if (n % num == 0) {
-                spcl_cnt++;
-            }
-            
-            if (spcl_cnt > 2) {
-                return false; 
+        for (int i = 2; i * i <= lmt; i++) {
+            if (valid_prime[i]) {
+                for (int j = i * i; j <= lmt; j += i) {
+                    valid_prime[j] = false;
+                }
             }
         }
-        return spcl_cnt == 2; 
+
+        List<Integer> primes = new ArrayList<>();
+        for (int i = 2; i <= lmt; i++) {
+            if (valid_prime[i]) {
+                primes.add(i);
+            }
+        }
+        return primes;
     }
 }
