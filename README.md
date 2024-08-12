@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1375-find-palindrome-with-fixed-length](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1375-find-palindrome-with-fixed-length) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1446-angle-between-hands-of-a-clock) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1543-simplified-fractions](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1585-the-kth-factor-of-n) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1674-minimum-operations-to-make-array-equal) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0335-self-crossing](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0335-self-crossing) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1501-circle-and-rectangle-overlapping) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Tree
