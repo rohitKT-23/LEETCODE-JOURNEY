@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0780-max-chunks-to-make-sorted) |
 | [0810-valid-tic-tac-toe-state](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0810-valid-tic-tac-toe-state) |
 | [0852-friends-of-appropriate-ages](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0852-friends-of-appropriate-ages) |
+| [0901-advantage-shuffle](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0901-advantage-shuffle) |
 | [0963-three-equal-parts](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0963-three-equal-parts) |
 | [1028-interval-list-intersections](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1028-interval-list-intersections) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1230-maximum-of-absolute-value-expression) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0852-friends-of-appropriate-ages](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0852-friends-of-appropriate-ages) |
+| [0901-advantage-shuffle](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0901-advantage-shuffle) |
 | [0953-reverse-only-letters](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0953-reverse-only-letters) |
 | [1028-interval-list-intersections](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1028-interval-list-intersections) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1581-the-k-strongest-values-in-an-array) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0649-dota2-senate](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0649-dota2-senate) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0780-max-chunks-to-make-sorted) |
+| [0901-advantage-shuffle](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0901-advantage-shuffle) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 ## Sorting
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0780-max-chunks-to-make-sorted) |
 | [0852-friends-of-appropriate-ages](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0852-friends-of-appropriate-ages) |
+| [0901-advantage-shuffle](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0901-advantage-shuffle) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
