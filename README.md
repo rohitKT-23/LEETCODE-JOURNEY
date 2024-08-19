@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0477-total-hamming-distance) |
 | [0539-minimum-time-difference](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0539-minimum-time-difference) |
 | [0640-solve-the-equation](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0640-solve-the-equation) |
+| [0650-2-keys-keyboard](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0650-2-keys-keyboard) |
 | [0795-k-th-symbol-in-grammar](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0795-k-th-symbol-in-grammar) |
 | [0963-three-equal-parts](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0963-three-equal-parts) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1230-maximum-of-absolute-value-expression) |
@@ -262,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0543-diameter-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0988-flip-equivalent-binary-trees) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0650-2-keys-keyboard](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0650-2-keys-keyboard) |
 <!---LeetCode Topics End-->
