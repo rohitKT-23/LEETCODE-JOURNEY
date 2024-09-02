@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0665-non-decreasing-array) |
 | [0722-remove-comments](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0722-remove-comments) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0780-max-chunks-to-make-sorted) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0810-valid-tic-tac-toe-state](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0810-valid-tic-tac-toe-state) |
 | [0852-friends-of-appropriate-ages](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0852-friends-of-appropriate-ages) |
 | [0864-image-overlap](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0864-image-overlap) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0852-friends-of-appropriate-ages](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0852-friends-of-appropriate-ages) |
 | [0901-advantage-shuffle](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0901-advantage-shuffle) |
 | [0953-reverse-only-letters](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0953-reverse-only-letters) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0726-number-of-atoms](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0780-max-chunks-to-make-sorted) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0852-friends-of-appropriate-ages](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0852-friends-of-appropriate-ages) |
 | [0901-advantage-shuffle](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0901-advantage-shuffle) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1232-sum-of-mutated-array-closest-to-target) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [0802-k-th-smallest-prime-fraction](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0852-friends-of-appropriate-ages](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0852-friends-of-appropriate-ages) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
@@ -290,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0095-unique-binary-search-trees-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0802-k-th-smallest-prime-fraction](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0802-k-th-smallest-prime-fraction) |
 <!---LeetCode Topics End-->
