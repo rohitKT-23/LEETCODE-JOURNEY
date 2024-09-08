@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-special-binary-string](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0763-special-binary-string) |
 | [0886-score-of-parentheses](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0886-score-of-parentheses) |
 | [0953-reverse-only-letters](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0953-reverse-only-letters) |
+| [1534-minimum-number-of-frogs-croaking](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1543-simplified-fractions](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1543-simplified-fractions) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 ## Number Theory
@@ -306,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Counting
+|  |
+| ------- |
+| [1534-minimum-number-of-frogs-croaking](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1534-minimum-number-of-frogs-croaking) |
 <!---LeetCode Topics End-->
