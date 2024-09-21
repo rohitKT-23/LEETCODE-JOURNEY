@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0543-diameter-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0988-flip-equivalent-binary-trees) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -318,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1534-minimum-number-of-frogs-croaking) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
