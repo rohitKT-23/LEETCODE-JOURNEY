@@ -15,9 +15,9 @@ class Solution {
             return head;
         }
 
-        ListNode dummy = new ListNode(0);
-        dummy.next = head;
-        ListNode phelaa = dummy;
+        ListNode tmp = new ListNode(0);
+        tmp.next = head;
+        ListNode phelaa = tmp;
         ListNode abhii = head;
 
         while(abhii != null){
@@ -31,9 +31,9 @@ class Solution {
             }else{
                 phelaa.next = abhii.next;
             }
-            
+
             abhii = abhii.next;
         }
-        return dummy.next;
+        return tmp.next;
     }
 }
