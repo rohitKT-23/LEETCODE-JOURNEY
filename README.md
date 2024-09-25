@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1230-maximum-of-absolute-value-expression](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1247-decrease-elements-to-make-array-zigzag) |
+| [1253-sort-the-matrix-diagonally](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1253-sort-the-matrix-diagonally) |
 | [1284-four-divisors](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1284-four-divisors) |
 | [1375-find-palindrome-with-fixed-length](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1375-find-palindrome-with-fixed-length) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1581-the-k-strongest-values-in-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0289-game-of-life) |
 | [0810-valid-tic-tac-toe-state](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0810-valid-tic-tac-toe-state) |
 | [0864-image-overlap](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0864-image-overlap) |
+| [1253-sort-the-matrix-diagonally](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1253-sort-the-matrix-diagonally) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-friends-of-appropriate-ages](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0852-friends-of-appropriate-ages) |
 | [0901-advantage-shuffle](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0901-advantage-shuffle) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1232-sum-of-mutated-array-closest-to-target) |
+| [1253-sort-the-matrix-diagonally](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1253-sort-the-matrix-diagonally) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
