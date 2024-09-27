@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1543-simplified-fractions](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1543-simplified-fractions) |
 | [1585-the-kth-factor-of-n](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1585-the-kth-factor-of-n) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1674-minimum-operations-to-make-array-equal) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2050-count-good-numbers](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2050-count-good-numbers) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-minimum-number-of-frogs-croaking](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1543-simplified-fractions](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1543-simplified-fractions) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1885-count-number-of-homogenous-substrings) |
 ## Number Theory
 |  |
 | ------- |
