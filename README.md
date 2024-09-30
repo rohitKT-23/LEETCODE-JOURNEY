@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
