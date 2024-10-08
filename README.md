@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0143-reorder-list) |
+| [0165-compare-version-numbers](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0165-compare-version-numbers) |
 | [0481-magical-string](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0481-magical-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0165-compare-version-numbers) |
 | [0318-maximum-product-of-word-lengths](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0318-maximum-product-of-word-lengths) |
 | [0481-magical-string](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0481-magical-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
