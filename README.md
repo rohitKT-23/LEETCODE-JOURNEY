@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0318-maximum-product-of-word-lengths) |
 | [0477-total-hamming-distance](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0477-total-hamming-distance) |
 | [0795-k-th-symbol-in-grammar](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0795-k-th-symbol-in-grammar) |
+| [3394-minimum-array-end](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/3394-minimum-array-end) |
 ## Two Pointers
 |  |
 | ------- |
