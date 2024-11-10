@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1375-find-palindrome-with-fixed-length](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1375-find-palindrome-with-fixed-length) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-the-k-strongest-values-in-an-array](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
+| [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 ## Stack
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0780-max-chunks-to-make-sorted) |
 | [0901-advantage-shuffle](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0901-advantage-shuffle) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1247-decrease-elements-to-make-array-zigzag) |
+| [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 ## Sorting
 |  |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0686-repeated-string-match) |
+| [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 ## Sliding Window
 |  |
 | ------- |
