@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
 ## Randomized
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0318-maximum-product-of-word-lengths) |
 | [0477-total-hamming-distance](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0477-total-hamming-distance) |
 | [0795-k-th-symbol-in-grammar](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0795-k-th-symbol-in-grammar) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/3394-minimum-array-end) |
 ## Two Pointers
 |  |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0686-repeated-string-match) |
+## Sliding Window
+|  |
+| ------- |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 <!---LeetCode Topics End-->
