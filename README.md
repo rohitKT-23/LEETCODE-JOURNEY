@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-friends-of-appropriate-ages](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0852-friends-of-appropriate-ages) |
 | [0864-image-overlap](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0864-image-overlap) |
 | [0901-advantage-shuffle](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0901-advantage-shuffle) |
+| [0947-online-election](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0947-online-election) |
 | [0963-three-equal-parts](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0963-three-equal-parts) |
 | [1028-interval-list-intersections](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1028-interval-list-intersections) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1230-maximum-of-absolute-value-expression) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0852-friends-of-appropriate-ages](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0852-friends-of-appropriate-ages) |
+| [0947-online-election](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0947-online-election) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0726-number-of-atoms) |
+| [0947-online-election](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0947-online-election) |
 ## Database
 |  |
 | ------- |
@@ -355,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## Design
+|  |
+| ------- |
+| [0947-online-election](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0947-online-election) |
 <!---LeetCode Topics End-->
