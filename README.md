@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0624-maximum-distance-in-arrays](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0624-maximum-distance-in-arrays) |
 | [0665-non-decreasing-array](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0665-non-decreasing-array) |
+| [0713-subarray-product-less-than-k](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0713-subarray-product-less-than-k) |
 | [0722-remove-comments](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0722-remove-comments) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0780-max-chunks-to-make-sorted) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [0713-subarray-product-less-than-k](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0713-subarray-product-less-than-k) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0852-friends-of-appropriate-ages](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0852-friends-of-appropriate-ages) |
 | [0947-online-election](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0947-online-election) |
@@ -361,9 +363,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0713-subarray-product-less-than-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Design
 |  |
 | ------- |
 | [0947-online-election](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0947-online-election) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
