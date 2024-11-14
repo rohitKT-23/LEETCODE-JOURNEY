@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0289-game-of-life) |
 | [0318-maximum-product-of-word-lengths](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0318-maximum-product-of-word-lengths) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0289-game-of-life) |
 | [0810-valid-tic-tac-toe-state](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0810-valid-tic-tac-toe-state) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0064-minimum-path-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0650-2-keys-keyboard](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0650-2-keys-keyboard) |
 ## Binary Search Tree
