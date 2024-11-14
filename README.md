@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-advantage-shuffle](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0901-advantage-shuffle) |
 | [0947-online-election](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0947-online-election) |
 | [0963-three-equal-parts](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0963-three-equal-parts) |
+| [0967-minimum-falling-path-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0967-minimum-falling-path-sum) |
 | [1028-interval-list-intersections](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1028-interval-list-intersections) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1232-sum-of-mutated-array-closest-to-target) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0289-game-of-life) |
 | [0810-valid-tic-tac-toe-state](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0810-valid-tic-tac-toe-state) |
 | [0864-image-overlap](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0864-image-overlap) |
+| [0967-minimum-falling-path-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0967-minimum-falling-path-sum) |
 | [1253-sort-the-matrix-diagonally](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1253-sort-the-matrix-diagonally) |
 ## Bit Manipulation
 |  |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0064-minimum-path-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0650-2-keys-keyboard](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0650-2-keys-keyboard) |
+| [0967-minimum-falling-path-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0967-minimum-falling-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
