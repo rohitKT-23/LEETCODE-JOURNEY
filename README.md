@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1375-find-palindrome-with-fixed-length](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1375-find-palindrome-with-fixed-length) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1755-defuse-the-bomb](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1755-defuse-the-bomb) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0713-subarray-product-less-than-k) |
+| [1755-defuse-the-bomb](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1755-defuse-the-bomb) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Design
 |  |
