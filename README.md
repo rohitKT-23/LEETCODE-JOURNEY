@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1755-defuse-the-bomb) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1972-rotating-the-box](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0967-minimum-falling-path-sum) |
 | [1253-sort-the-matrix-diagonally](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1253-sort-the-matrix-diagonally) |
 | [1972-rotating-the-box](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2089-maximum-matrix-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-advantage-shuffle](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0901-advantage-shuffle) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
+| [2089-maximum-matrix-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2089-maximum-matrix-sum) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 ## Sorting
 |  |
