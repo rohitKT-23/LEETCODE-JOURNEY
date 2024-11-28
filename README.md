@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0032-longest-valid-parentheses) |
 | [0165-compare-version-numbers](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0165-compare-version-numbers) |
 | [0318-maximum-product-of-word-lengths](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0318-maximum-product-of-word-lengths) |
 | [0481-magical-string](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0481-magical-string) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0064-minimum-path-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0095-unique-binary-search-trees-ii) |
