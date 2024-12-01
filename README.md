@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0010-regular-expression-matching) |
 | [0143-reorder-list](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0143-reorder-list) |
 | [0763-special-binary-string](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0763-special-binary-string) |
 | [0795-k-th-symbol-in-grammar](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0795-k-th-symbol-in-grammar) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0032-longest-valid-parentheses) |
 | [0165-compare-version-numbers](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0165-compare-version-numbers) |
 | [0318-maximum-product-of-word-lengths](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0318-maximum-product-of-word-lengths) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0064-minimum-path-sum) |
