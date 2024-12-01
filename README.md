@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1253-sort-the-matrix-diagonally](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1253-sort-the-matrix-diagonally) |
 | [1284-four-divisors](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1284-four-divisors) |
 | [1375-find-palindrome-with-fixed-length](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1375-find-palindrome-with-fixed-length) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1752-arithmetic-subarrays](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1752-arithmetic-subarrays) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-advantage-shuffle](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0901-advantage-shuffle) |
 | [0953-reverse-only-letters](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0953-reverse-only-letters) |
 | [1028-interval-list-intersections](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1028-interval-list-intersections) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-advantage-shuffle](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0901-advantage-shuffle) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1253-sort-the-matrix-diagonally](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1253-sort-the-matrix-diagonally) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1581-the-k-strongest-values-in-an-array](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1752-arithmetic-subarrays](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1752-arithmetic-subarrays) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-online-election](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0947-online-election) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0726-number-of-atoms](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0726-number-of-atoms) |
 | [0947-online-election](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0947-online-election) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1752-arithmetic-subarrays](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1752-arithmetic-subarrays) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Database
