@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1972-rotating-the-box](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Stack
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2232-adding-spaces-to-a-string](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Number Theory
