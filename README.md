@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Union Find
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3507-find-the-count-of-numbers-which-are-not-special](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/3507-find-the-count-of-numbers-which-are-not-special) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Randomized
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0537-complex-number-multiplication) |
 | [0640-solve-the-equation](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0640-solve-the-equation) |
 | [2232-adding-spaces-to-a-string](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2232-adding-spaces-to-a-string) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-k-th-smallest-prime-fraction](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0802-k-th-smallest-prime-fraction) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Enumeration
 |  |
 | ------- |
