@@ -7,15 +7,15 @@ class Solution {
         }
         boolean[][] dp = new boolean[str1 + 1][str2 + 1];
         dp[0][0] = true;
-        for (int i = 1; i <= str1; i++) {
-            dp[i][0] = dp[i - 1][0] && s1.charAt(i - 1) == s3.charAt(i - 1);
+        for (int str = 1; str <= str1; str++) {
+            dp[str][0] = dp[str - 1][0] && s1.charAt(str - 1) == s3.charAt(str - 1);
         }
-        for (int i = 1; i <= str2; i++) {
-            dp[0][i] = dp[0][i - 1] && s2.charAt(i - 1) == s3.charAt(i - 1);
+        for (int str = 1; str <= str2; str++) {
+            dp[0][str] = dp[0][str - 1] && s2.charAt(str - 1) == s3.charAt(str - 1);
         }
-        for (int i = 1; i <= str1; i++) {
+        for (int str = 1; str <= str1; str++) {
             for (int j = 1; j <= str2; j++) {
-                dp[i][j] = (dp[i - 1][j] && s1.charAt(i - 1) == s3.charAt(i + j - 1)) || (dp[i][j - 1] && s2.charAt(j - 1) == s3.charAt(i + j - 1));
+                dp[str][j] = (dp[str - 1][j] && s1.charAt(str - 1) == s3.charAt(str + j - 1)) || (dp[str][j - 1] && s2.charAt(j - 1) == s3.charAt(str + j - 1));
             }
         }
         return dp[str1][str2];
