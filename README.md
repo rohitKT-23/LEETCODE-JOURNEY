@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-k-th-smallest-prime-fraction](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1955-seat-reservation-manager](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1955-seat-reservation-manager) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Enumeration
 |  |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-online-election](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0947-online-election) |
+| [1955-seat-reservation-manager](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1955-seat-reservation-manager) |
 ## Prefix Sum
 |  |
 | ------- |
