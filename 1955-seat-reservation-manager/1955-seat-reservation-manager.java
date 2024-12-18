@@ -11,6 +11,6 @@ class SeatManager {
       min_hp.offer(seatNumber);
     }
   
-    private Queue<Integer> min_hp = new PriorityQueue<>();
-    private int num = 0;
+    public Queue<Integer> min_hp = new PriorityQueue<>();
+    public int num = 0;
   }
