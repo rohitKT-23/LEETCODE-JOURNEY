@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0537-complex-number-multiplication](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0539-minimum-time-difference) |
+| [0583-delete-operation-for-two-strings](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0583-delete-operation-for-two-strings) |
 | [0640-solve-the-equation](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0640-solve-the-equation) |
 | [0649-dota2-senate](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0649-dota2-senate) |
 | [0686-repeated-string-match](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0686-repeated-string-match) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0120-triangle) |
+| [0583-delete-operation-for-two-strings](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0650-2-keys-keyboard) |
 | [0967-minimum-falling-path-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0967-minimum-falling-path-sum) |
 ## Binary Search Tree
