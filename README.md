@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0650-2-keys-keyboard) |
 | [0795-k-th-symbol-in-grammar](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0795-k-th-symbol-in-grammar) |
 | [0963-three-equal-parts](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0963-three-equal-parts) |
+| [0968-beautiful-array](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0968-beautiful-array) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1276-closest-divisors](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1276-closest-divisors) |
 | [1284-four-divisors](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1284-four-divisors) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-online-election](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0947-online-election) |
 | [0963-three-equal-parts](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0963-three-equal-parts) |
 | [0967-minimum-falling-path-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0967-minimum-falling-path-sum) |
+| [0968-beautiful-array](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0968-beautiful-array) |
 | [1028-interval-list-intersections](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1028-interval-list-intersections) |
 | [1230-maximum-of-absolute-value-expression](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1230-maximum-of-absolute-value-expression) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1232-sum-of-mutated-array-closest-to-target) |
@@ -454,4 +456,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1961-maximum-ice-cream-bars) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0968-beautiful-array](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0968-beautiful-array) |
 <!---LeetCode Topics End-->
