@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0650-2-keys-keyboard) |
 | [0967-minimum-falling-path-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0967-minimum-falling-path-sum) |
+| [2562-count-ways-to-build-good-strings](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2562-count-ways-to-build-good-strings) |
 ## Binary Search Tree
 |  |
 | ------- |
