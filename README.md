@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1885-count-number-of-homogenous-substrings](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2232-adding-spaces-to-a-string](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2444-longest-ideal-subsequence](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2444-longest-ideal-subsequence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Number Theory
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-online-election](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0947-online-election) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1752-arithmetic-subarrays](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1752-arithmetic-subarrays) |
+| [2444-longest-ideal-subsequence](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2444-longest-ideal-subsequence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Database
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0650-2-keys-keyboard) |
 | [0967-minimum-falling-path-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0967-minimum-falling-path-sum) |
+| [2444-longest-ideal-subsequence](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2444-longest-ideal-subsequence) |
 | [2562-count-ways-to-build-good-strings](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2562-count-ways-to-build-good-strings) |
 ## Binary Search Tree
 |  |
