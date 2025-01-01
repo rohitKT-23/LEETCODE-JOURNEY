@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0886-score-of-parentheses) |
 | [0953-reverse-only-letters](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0953-reverse-only-letters) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1534-minimum-number-of-frogs-croaking) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1543-simplified-fractions](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1543-simplified-fractions) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0713-subarray-product-less-than-k) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Counting Sort
 |  |
 | ------- |
