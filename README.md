@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-advantage-shuffle](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0901-advantage-shuffle) |
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1961-maximum-ice-cream-bars) |
 | [2089-maximum-matrix-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2089-maximum-matrix-sum) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2699-count-the-number-of-fair-pairs) |
