@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1585-the-kth-factor-of-n) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1885-count-number-of-homogenous-substrings) |
+| [2039-sum-game](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2039-sum-game) |
 | [2050-count-good-numbers](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2050-count-good-numbers) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1961-maximum-ice-cream-bars) |
+| [2039-sum-game](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2039-sum-game) |
 | [2089-maximum-matrix-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2089-maximum-matrix-sum) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1885-count-number-of-homogenous-substrings) |
+| [2039-sum-game](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2039-sum-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2444-longest-ideal-subsequence](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2444-longest-ideal-subsequence) |
@@ -472,4 +475,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0968-beautiful-array](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0968-beautiful-array) |
+## Game Theory
+|  |
+| ------- |
+| [2039-sum-game](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2039-sum-game) |
 <!---LeetCode Topics End-->
