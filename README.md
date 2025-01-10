@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-advantage-shuffle](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0901-advantage-shuffle) |
 | [0947-online-election](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0947-online-election) |
 | [0948-sort-an-array](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0948-sort-an-array) |
+| [0952-word-subsets](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0952-word-subsets) |
 | [0963-three-equal-parts](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0963-three-equal-parts) |
 | [0967-minimum-falling-path-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0967-minimum-falling-path-sum) |
 | [0968-beautiful-array](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0968-beautiful-array) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0726-number-of-atoms) |
 | [0763-special-binary-string](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0763-special-binary-string) |
 | [0886-score-of-parentheses](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0886-score-of-parentheses) |
+| [0952-word-subsets](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0953-reverse-only-letters) |
 | [0974-reorder-data-in-log-files](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0974-reorder-data-in-log-files) |
 | [1026-string-without-aaa-or-bbb](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1026-string-without-aaa-or-bbb) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0726-number-of-atoms](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0726-number-of-atoms) |
 | [0947-online-election](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0947-online-election) |
+| [0952-word-subsets](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1752-arithmetic-subarrays](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1752-arithmetic-subarrays) |
 | [2444-longest-ideal-subsequence](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2444-longest-ideal-subsequence) |
