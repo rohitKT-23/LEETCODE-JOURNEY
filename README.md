@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2651-count-ways-to-group-overlapping-ranges](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2651-count-ways-to-group-overlapping-ranges](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Monotonic Stack
