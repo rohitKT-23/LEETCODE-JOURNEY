@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0801-is-graph-bipartite) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1876-map-of-highest-peak](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1876-map-of-highest-peak) |
 ## Graph
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-arithmetic-subarrays](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1752-arithmetic-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1755-defuse-the-bomb) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
+| [1876-map-of-highest-peak](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1876-map-of-highest-peak) |
 | [1961-maximum-ice-cream-bars](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1961-maximum-ice-cream-bars) |
 | [1972-rotating-the-box](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2089-maximum-matrix-sum) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0864-image-overlap](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0864-image-overlap) |
 | [0967-minimum-falling-path-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0967-minimum-falling-path-sum) |
 | [1253-sort-the-matrix-diagonally](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1253-sort-the-matrix-diagonally) |
+| [1876-map-of-highest-peak](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2089-maximum-matrix-sum) |
 ## Bit Manipulation
