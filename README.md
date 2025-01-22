@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0120-triangle) |
+| [0169-majority-element](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0289-game-of-life) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0169-majority-element) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0539-minimum-time-difference) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0169-majority-element) |
 | [0726-number-of-atoms](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0726-number-of-atoms) |
 | [0947-online-election](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0947-online-election) |
 | [0952-word-subsets](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0952-word-subsets) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0169-majority-element) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1534-minimum-number-of-frogs-croaking) |
 ## Trie
 |  |
@@ -505,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0948-sort-an-array) |
 | [0968-beautiful-array](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0968-beautiful-array) |
 ## Game Theory
