@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0200-number-of-islands) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0032-longest-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0165-compare-version-numbers) |
 | [0227-basic-calculator-ii](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0227-basic-calculator-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0318-maximum-product-of-word-lengths) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0169-majority-element) |
 | [0726-number-of-atoms](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0726-number-of-atoms) |
 | [0947-online-election](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0947-online-election) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0198-house-robber) |
 | [0583-delete-operation-for-two-strings](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0650-2-keys-keyboard) |
@@ -480,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0386-lexicographical-numbers) |
 ## String Matching
 |  |
@@ -531,4 +536,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0948-sort-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
