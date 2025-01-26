@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0139-word-break) |
+| [0164-maximum-gap](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0200-number-of-islands) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0169-majority-element) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -536,10 +538,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0164-maximum-gap) |
 | [0948-sort-an-array](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0164-maximum-gap) |
 | [0948-sort-an-array](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0948-sort-an-array) |
 ## Memoization
 |  |
