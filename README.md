@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0624-maximum-distance-in-arrays) |
 | [0665-non-decreasing-array](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0665-non-decreasing-array) |
 | [0713-subarray-product-less-than-k](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0713-subarray-product-less-than-k) |
+| [0720-longest-word-in-dictionary](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0720-longest-word-in-dictionary) |
 | [0722-remove-comments](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0722-remove-comments) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0780-max-chunks-to-make-sorted) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0720-longest-word-in-dictionary](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0720-longest-word-in-dictionary) |
 | [0726-number-of-atoms](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0780-max-chunks-to-make-sorted) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0640-solve-the-equation](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0640-solve-the-equation) |
 | [0649-dota2-senate](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0649-dota2-senate) |
 | [0686-repeated-string-match](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0686-repeated-string-match) |
+| [0720-longest-word-in-dictionary](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0720-longest-word-in-dictionary) |
 | [0722-remove-comments](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0722-remove-comments) |
 | [0726-number-of-atoms](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0726-number-of-atoms) |
 | [0763-special-binary-string](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0763-special-binary-string) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0169-majority-element) |
+| [0720-longest-word-in-dictionary](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0720-longest-word-in-dictionary) |
 | [0726-number-of-atoms](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0726-number-of-atoms) |
 | [0947-online-election](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0947-online-election) |
 | [0952-word-subsets](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0952-word-subsets) |
@@ -486,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0386-lexicographical-numbers) |
+| [0720-longest-word-in-dictionary](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0720-longest-word-in-dictionary) |
 ## String Matching
 |  |
 | ------- |
