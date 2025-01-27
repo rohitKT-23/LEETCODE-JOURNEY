@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0089-gray-code) |
 | [0227-basic-calculator-ii](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0227-basic-calculator-ii) |
 | [0335-self-crossing](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0335-self-crossing) |
+| [0343-integer-break](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0343-integer-break) |
 | [0384-shuffle-an-array](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0384-shuffle-an-array) |
 | [0477-total-hamming-distance](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0477-total-hamming-distance) |
 | [0537-complex-number-multiplication](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0537-complex-number-multiplication) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0198-house-robber) |
+| [0343-integer-break](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0343-integer-break) |
 | [0583-delete-operation-for-two-strings](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0650-2-keys-keyboard) |
 | [0967-minimum-falling-path-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0967-minimum-falling-path-sum) |
