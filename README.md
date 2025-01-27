@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0089-gray-code) |
 | [0227-basic-calculator-ii](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0227-basic-calculator-ii) |
 | [0335-self-crossing](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0335-self-crossing) |
 | [0384-shuffle-an-array](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0384-shuffle-an-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0089-gray-code) |
 | [0318-maximum-product-of-word-lengths](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0318-maximum-product-of-word-lengths) |
 | [0477-total-hamming-distance](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0477-total-hamming-distance) |
 | [0795-k-th-symbol-in-grammar](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0795-k-th-symbol-in-grammar) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0095-unique-binary-search-trees-ii) |
 ## Heap (Priority Queue)
 |  |
