@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0396-rotate-function) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0474-ones-and-zeroes](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0477-total-hamming-distance) |
 | [0517-super-washing-machines](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0517-super-washing-machines) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0165-compare-version-numbers) |
 | [0227-basic-calculator-ii](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0227-basic-calculator-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0318-maximum-product-of-word-lengths) |
+| [0474-ones-and-zeroes](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0481-magical-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0537-complex-number-multiplication](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0537-complex-number-multiplication) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0213-house-robber-ii) |
 | [0343-integer-break](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0396-rotate-function) |
+| [0474-ones-and-zeroes](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0650-2-keys-keyboard) |
 | [0967-minimum-falling-path-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0967-minimum-falling-path-sum) |
