@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1755-defuse-the-bomb) |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
 | [1876-map-of-highest-peak](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1876-map-of-highest-peak) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1961-maximum-ice-cream-bars](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1961-maximum-ice-cream-bars) |
 | [1972-rotating-the-box](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2089-maximum-matrix-sum) |
