@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1585-the-kth-factor-of-n) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1885-count-number-of-homogenous-substrings) |
+| [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2039-sum-game](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2039-sum-game) |
 | [2050-count-good-numbers](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2050-count-good-numbers) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1961-maximum-ice-cream-bars](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1961-maximum-ice-cream-bars) |
+| [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1972-rotating-the-box](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0318-maximum-product-of-word-lengths) |
 | [0477-total-hamming-distance](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0477-total-hamming-distance) |
 | [0795-k-th-symbol-in-grammar](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0795-k-th-symbol-in-grammar) |
+| [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2792-neighboring-bitwise-xor](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/2792-neighboring-bitwise-xor) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/3394-minimum-array-end) |
