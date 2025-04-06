@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0801-is-graph-bipartite](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0801-is-graph-bipartite) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/rohitKT-23/Leetcode-Journey/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0139-word-break) |
 | [0164-maximum-gap](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0169-majority-element) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0169-majority-element) |
 | [0720-longest-word-in-dictionary](https://github.com/rohitKT-23/LEETCODE-JOURNEY/tree/master/0720-longest-word-in-dictionary) |
